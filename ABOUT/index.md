@@ -76,10 +76,9 @@ redirect_from:
 | **2022.01** | 가천대학교 AI·소프트웨어학과 소프트웨어전공 전과 | 개발 지식을 기초부터 쌓아가야 한다는 생각이 들어 전과를 결심하게 되었습니다 |
 | **2022.09** | 연세대 취업사관학교 4차 산업 기술 인재 양성과정 수료 (Web-React, UI/UX) | 단순 웹개발을 넘어 React를 이용한 개발을 학습하고자 참여하였으며, 그 과정에서 UI/UX를 고려 한 디자인에 대해서도 학습할 수 있었습니다 |
 | **2023.02** | PeopleSpace A.I. Short Term Training Program 수료 | 학과 해외연수 프로그램을 통해 fast.ai 라이브러리를 이용한 기본적인 모델 생성과 사용 방법을 학습하고, Text-to-illustration 모델을 이용한 노트 웹서비스 프로젝트에서 디자인 및 프론트엔드 개발자로 참여하였습니다 |
-| **2023.02** | PeopleSpace A.I. Short Term Training Program 수료 | 학과 해외연수 프로그램을 통해 fast.ai 라이브러리를 이용한 기본적인 모델 생성과 사용 방법을 학습하고, Text-to-illustration 모델을 이용한 노트 웹서비스 프로젝트에서 디자인 및 프론트엔드 개발자로 참여하였습니다 |
 | **2023.03** | 앱 런칭 동아리 UMC 가천대 4기 Spring Boot 파트 수료 | 백엔드에 대한 지식도 어느정도 필요하다고 생각하여, 스터디리더로 Spring Boot 파트를 수료하였습니다 |
 | **2023.04** | 골프존커머스 모바일개발팀 인턴 | 학골프용품을 판매하는 e-커머스 회사에서 프론트엔드(웹/앱) 관련 유지보수 및 프로젝트를 수행하였습니다 |
-| **2023.07** | 가천대학교 코코네스쿨 스타트업 ‘도슨트’ 프론트엔드 및 앱 개발 멤버 | AI 모델을 이용하여 분류 및 기록 서비스를 제공하는 Looi의 프론트엔드 개발 멤버로 참여하였습니다. 전반적인 환경 구축 및 화면 개발과 앱 연동 작업을 진행하였으며, 스토어 출시 후 업데이트도 수차례 진행하였습니다. |
+| **2023.07** | 가천대학교 코코네스쿨 스타트업 ‘도슨트’ 멤버 | AI 모델을 이용하여 분류 및 기록 서비스를 제공하는 Looi의 프론트엔드 개발 멤버로 참여하였습니다. 전반적인 환경 구축 및 화면 개발과 앱 연동 작업을 진행하였으며, 스토어 출시 후 업데이트도 진행하였습니다. |
 
 ## 💼 Projects
 
@@ -109,7 +108,7 @@ redirect_from:
 <b style="font-size: 26px; ">Do or not </b>(2022.03.31-2022.06.05) `Android` `Kotlin`
 
 선택에 어려움을 겪는 사람들을 위한 커뮤니티 앱
-<img src="/assets/img/about/Project_2_DoorNot.png" alt="산책 기록을 남기는 안드로이드 플랫폼, 발자국" width="80%" style="border-radius: 5px"  >
+<img src="/assets/img/about/Project_2_DoorNot.png" alt="선택 장애를 위한 커뮤니티, Do or Not" width="80%" style="border-radius: 5px"  >
 
 -   2022-2 모바일 프로그래밍 텀프로젝트
 -   **Android Developer** (Anrdoid 4명)
@@ -127,7 +126,7 @@ redirect_from:
 <b style="font-size: 26px; ">Doodling </b>(2023.01.02-2023.02.11) `React` `JavaScript`
 
 난독증 학생들을 위한 노트 테이킹 웹어플리케이션
-<img src="/assets/img/about/Project_3_Doodling.png" alt="산책 기록을 남기는 안드로이드 플랫폼, 발자국" width="80%" style="border-radius: 5px"  >
+<img src="/assets/img/about/Project_3_Doodling.png" alt="난독증 학생들을 위한 노트 서비스, Doodling" width="80%" style="border-radius: 5px"  >
 
 -   2023 PeopleSpace A.I. Training Program
 -   **Frontend Developer** (Frontend 1명, Server 1명, Model 2명)
@@ -165,9 +164,9 @@ redirect_from:
 <!-- 5. Looi -->
 
 <b style="font-size: 26px; ">Looi </b>(2023.07.01-2023.01.31) `Vue/Nuxt` `Android` `iOS`
-
-난독증 학생들을 위한 노트 테이킹 웹어플리케이션
-<img src="/assets/img/about/Project_4_Looi.png" alt="산책 기록을 남기는 안드로이드 플랫폼, 발자국" width="80%" style="border-radius: 5px"  >
+자기관리를 도와주는 AI 기록 비서, Looi
+<img src="/assets/img/about/Project_4_Looi.png" alt="
+자기관리를 도와주는 AI 기록 비서, Looi" width="80%" style="border-radius: 5px"  >
 
 -   가천대학교 코코네스쿨 스타트업 ‘도슨트’ 팀 멤버
 -   **Frontend/App Developer** (Frontend 1명, Server 1명, PM 1명, 디자이너 1명, 마케팅 1명)
