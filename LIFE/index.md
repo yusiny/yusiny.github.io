@@ -1,5 +1,6 @@
 ---
-layout: about
+layout: default
+title: LIFE
 description: >
     About me 🙌
 
